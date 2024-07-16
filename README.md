@@ -148,10 +148,6 @@ src
                 └── V1__Cria_tabelas.sql
 ```
 
-## Autor
-
-Péricles
-
 ## Licença
 
 Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
